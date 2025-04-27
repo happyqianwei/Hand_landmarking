@@ -1,2 +1,2 @@
-# Hand_landmarking
+# Hand Landmarking
 HRNet-based landmarking for hand morphology
