@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Wei Qian, Yongqing Bao, MMPose Contributors"
+title: "Hand landmarking using OpenMMLab Pose Estimation Toolbox"
+date-released: 2025-05-31
+url: "https://github.com/happyqianwei/Hand_landmarking"
+license: Apache-2.0
