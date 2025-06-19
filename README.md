@@ -31,7 +31,7 @@ If you use our tool - automated landmarking for hand, please cite:
 
 2. install MMPose
 	
-`cd mmpose_hand`
+`cd Hand_landmarking`
 
 `pip install -r requirements.txt`
 
