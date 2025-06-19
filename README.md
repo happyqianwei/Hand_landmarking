@@ -57,6 +57,10 @@ This is a demo for a toy test sample and visualization can be found in your work
 
 The visualization result was deposited in work_dirs folder.
 
+![landmark_visualization](https://github.com/happyqianwei/Hand_landmarking/blob/main/work_dirs/vis_results.jpg)
+
+
+
 ## Model training and testing
 #### 1. Train on a GPU:
 
